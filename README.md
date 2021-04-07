@@ -227,3 +227,7 @@ df.shape
     (15000, 3)
 
 
+## Learn More:
+1. Grad-CAM: https://keras.io/examples/vision/grad_cam/
+2. How to implement Grad-CAM on a trained network: https://stackoverflow.com/questions/66182884/how-to-implement-grad-cam-on-a-trained-network
+3. ITK Snap (DICOM viewer): http://www.itksnap.org/pmwiki/pmwiki.php
