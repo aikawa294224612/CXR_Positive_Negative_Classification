@@ -74,7 +74,7 @@ Loss: 0.10, Accuracy: 98.20%
 ```
 
 Result:
-![result](https://imgur.com/aghKoMO.png)
+![result](https://imgur.com/knwWFim.png)
 
 ## Dataset
 
